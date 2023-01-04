@@ -1,6 +1,6 @@
 # Whatsapp Web Clone
 
-Clone of the current Whatsapp Web UI. Check out its [backend service here](https://github.com/KarenOk/whatsapp-web-clone-backend) which implements WebSocket communication.
+Clone of the current Whatsapp Web UI.
 
 Built with React and Socket.IO .
 
